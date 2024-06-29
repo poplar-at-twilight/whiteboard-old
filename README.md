@@ -1,15 +1,15 @@
-# whiteboard
+# whiteboard-old
 
-我的个人在线文档站；主要收纳一些开源组织的新闻稿或博客的译文，以及我感兴趣的东西。
+该仓库用于归档 [whiteboard] 不再收纳的译文文档。
 
-- [Cloudflare Page](https://whiteboard-ui8.pages.dev/)
+[whiteboard]: https://whiteboard-ui8.pages.dev/
 
 ## 如何在本地构建，预览
 
 下载源码：
 
 ```
-git clone https://github.com/poplar-at-twilight/whiteboard.git && cd whiteboard
+git clone https://github.com/poplar-at-twilight/whiteboard-old.git && cd whiteboard-old
 ```
 
 创建容器：
@@ -29,7 +29,7 @@ source .venv/bin/activate
 ```
 [脚本的绝对路径]\.venv\Scripts\activate.bat
 
-#例如 D:\Myfile\documents\git\whiteboard\.venv\Scripts\activate.bat
+#例如 D:\Myfile\documents\git\whiteboard-old\.venv\Scripts\activate.bat
 ```
 
 安装依赖：
